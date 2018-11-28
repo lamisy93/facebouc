@@ -115,7 +115,7 @@ section.slide{width: 100%;
         font-size: 14px;
         width: 160px}
 
- article.visu2{background: url(../images/img/equipe.jpg) 0 0 no-repeat fixed;
+ article.visu2{background: url(./img/equipe.jpg) 0 0 no-repeat fixed;
  	           width: auto;
  	           height: 100vh;
  	           max-width: 100%;
